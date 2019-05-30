@@ -1,0 +1,11 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.showSlider": "always",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "breadcrumbs.enabled": true,
+    "editor.fontFamily": "Hasklig",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "sassVariablesHelper.route": "\"\\source\\sass\\_config.scss\"",
+    "window.zoomLevel": 0
+}
